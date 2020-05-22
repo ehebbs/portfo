@@ -1,0 +1,16 @@
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+lib==3.0.0
+MarkupSafe==1.1.1
+msgpack==1.0.0
+Pillow==7.0.0
+pop==13
+pop-config==5.6
+pyclip==0.1
+PyPDF2==1.26.0
+pypiwin32==223
+pywin32==227
+PyYAML==5.3.1
+Werkzeug==1.0.1
